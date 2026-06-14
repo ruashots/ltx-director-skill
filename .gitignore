@@ -1,0 +1,11 @@
+# Local provenance / session notes — kept on disk, never published
+references/
+
+# junk / outputs
+__pycache__/
+*.pyc
+*.mp4
+*.png
+video/
+outputs/
+.DS_Store
